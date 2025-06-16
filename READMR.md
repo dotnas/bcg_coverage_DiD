@@ -1,4 +1,4 @@
-# Exploration:BCG Vaccination Coverage Analysis: Impact of SOML Program
+# Exploration: BCG Vaccination Coverage Analysis: Impact of SOML Program
 
 ## Note
 This Difference-in-Differences (DiD) analysis explored the impact of SOML policy on BCG coverage using MICS data. The parallel trends assumption was not met in pre-treatment periods. The analysis is shared here to demonstrate methodological learning and encourage discussion around real-world data challenges in impact evaluation.
