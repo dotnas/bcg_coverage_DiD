@@ -1,4 +1,7 @@
-# BCG Vaccination Coverage Analysis: Impact of SOML Program
+# Exploration:BCG Vaccination Coverage Analysis: Impact of SOML Program
+
+## Note
+This Difference-in-Differences (DiD) analysis explored the impact of SOML policy on BCG coverage using MICS data. The parallel trends assumption was not met in pre-treatment periods. The analysis is shared here to demonstrate methodological learning and encourage discussion around real-world data challenges in impact evaluation.
 
 ## Project Overview
 This repository contains a difference-in-differences (DiD) analysis evaluating the effect of Nigeria's Save One Million Lives (SOML) initiative on BCG vaccination coverage using national survey data from 2007-2016.
